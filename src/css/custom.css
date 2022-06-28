@@ -6,14 +6,25 @@
 
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: rgb(33, 175, 144);
-  --ifm-color-primary-darker: rgb(31, 165, 136);
-  --ifm-color-primary-darkest: rgb(26, 136, 112);
-  --ifm-color-primary-light: rgb(70, 203, 174);
-  --ifm-color-primary-lighter: rgb(102, 212, 189);
-  --ifm-color-primary-lightest: rgb(146, 224, 208);
+    --ifm-color-primary: #ff6a6a;
+    --ifm-color-primary-dark: #ff4646;
+    --ifm-color-primary-darker: #ff3434;
+    --ifm-color-primary-darkest: #fd0000;
+    --ifm-color-primary-light: #ff8e8e;
+    --ifm-color-primary-lighter: #ffa0a0;
+    --ifm-color-primary-lightest: #ffd6d6;
+    --ifm-background-color: #ffe0e0;
+  
   --ifm-code-font-size: 95%;
+}
+
+/* Overriding root Infima variables */
+html[data-theme='dark'] {
+  --ifm-color-primary: #4e89e8;
+}
+/* Styling one class specially in dark mode */
+html[data-theme='dark'] .purple-text {
+  color: plum;
 }
 
 .docusaurus-highlight-code-line {
