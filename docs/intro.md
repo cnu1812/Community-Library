@@ -2,34 +2,35 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# SetUp This project locally
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Let's discover **how to setup this project locally in less than 5 minutes**.
 
 ## Getting Started
 
-Get started by **creating a new site**.
+Get started by **forking** the project from **[github link](https://github.com/cnu1812/community-library)**.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+Then 
 
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**:
-
-```shell
-npx @docusaurus/init@latest init my-website classic
-```
-
-## Start your site
-
-Run the development server:
-
-```shell
-cd my-website
-
-npx docusaurus start
-```
+- `` mkdir community-library ``
+- `` cd community-library ``
+- `` git clone https://github.com/<your github user name>/Community-Library.git ``
+- `` yarn `` or `` yarn install ``
+- `` yarn start ``
 
 Your site starts at `http://localhost:3000`.
 
+leave the terminal open.
+
+In next terminal
+
+- `` cd community-library ``
+- `` code . ``
+
 Open `docs/intro.md` and edit some lines: the site **reloads automatically** and display your changes.
+
+
+
+
+
+
