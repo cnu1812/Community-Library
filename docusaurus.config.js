@@ -53,6 +53,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             position: 'left',
             label: 'Docs',
           },
+          {
+            to: '/docs/quests-help/intro-quests',
+            label: 'Quests Help',
+            position: 'left',
+
+          },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/cnu1812/Community-Library',
