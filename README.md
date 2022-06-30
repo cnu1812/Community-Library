@@ -2,6 +2,16 @@
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
+### Initial SetUp
+
+Get started by **forking** the project from **[Github](https://github.com/cnu1812/community-library)**.
+
+### Then open a terminal in your system
+
+   - `` mkdir community-library ``
+   - `` cd community-library ``
+   - `` git clone https://github.com/<your github user name>/Community-Library.git ``
+
 ### Installation
 
 ```
