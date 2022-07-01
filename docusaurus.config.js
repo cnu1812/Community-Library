@@ -53,6 +53,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             position: 'left',
             label: 'Docs',
           },
+          {
+            to: '/docs/quests-help/intro-quests',
+            label: 'Quests Help',
+            position: 'left',
+
+          },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/cnu1812/Community-Library',
@@ -64,6 +70,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
       announcementBar: {
         content:
           '⭐️ If you like Community-Library, give it a star on <a target="_blank" rel="noopener noreferrer" href="https://github.com/cnu1812/community-library">GitHub</a>, and follow us on <a target="_blank" href="https://twitter.com/cnu1812"> Twitter</a>! ⭐️',
+        backgroundColor: 'white',
       },
       footer: {
         style: 'dark',
