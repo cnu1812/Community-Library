@@ -1,37 +1,46 @@
+---
+sidebar_position: 1
+---
+
 # Introduction to DataOps
 ![DataOps](https://www.eweek.com/wp-content/uploads/2020/10/DataOps.jpg)
 
 ### **What is DataOps?**
-<b><i>DataOps</i></b> is the orchestration of people, processes, and technology to deliver trusted, business-ready data to data citizens, operations, and applications throughout the data lifecycle. With properly governed data, businesses can comply with complex regulations, data privacy and ensure artificial intelligence (AI) model accuracy by monitoring data quality.</br>
+***DataOps*** is the orchestration of people, processes, and technology to deliver trusted, business-ready data to data citizens, operations, and applications throughout the data lifecycle. With properly governed data, businesses can comply with complex regulations, data privacy and ensure artificial intelligence (AI) model accuracy by monitoring data quality.
 
-This is the definition available on the web. It’s very complex for beginners, isn't it? So to put it in a brief:</br>
+This is the definition available on the web. It’s very complex for beginners, isn't it? So to put it in a brief:
 
  - DataOps brings together data scientists, analysts, developers, and operations to work on the entire product/service lifecycle, from the design stage to production support.
  -  Sounds like the DevOps definition...But! the goal of DataOps is to make data analytics more efficient. To do so, DataOps adopts Agile Development principles, thereby improving the efficiency and effectiveness of the data teams and users.
- - DataOps combines principles from <b><i>DevOps, Agile Development, and Lean manufacturing.</i></b> Think of it as a water pipeline; your goal is to keep the water flowing in spite of all the plumbing work you carry out.
+ - DataOps combines principles from **DevOps, Agile Development, and Lean manufacturing.** Think of it as a water pipeline; your goal is to keep the water flowing in spite of all the plumbing work you carry out.
 
- And here comes two new concepts/topics Lean Manufacturing and Agile Development. Let's see one by one:</br>
+ And here comes two new concepts/topics Lean Manufacturing and Agile Development. Let's see one by one:
 
   ***What is Lean Manufacturing?***
- <img src="https://pcigroup.com/wp-content/uploads/2020/12/Lean-5s-Quality-Gears-600x558-1.jpg" alt="drawing" style="width:350px;"/></br>
+ <img src="https://pcigroup.com/wp-content/uploads/2020/12/Lean-5s-Quality-Gears-600x558-1.jpg" alt="drawing" style="width:350px;"/>
 
- - Lean manufacturing is a production process based on an ideology of maximising productivity while simultaneously minimising waste within a manufacturing operation. The lean principle sees waste is anything that doesn’t add value that the customers are willing to pay for.</br>
+ - Lean manufacturing is a production process based on an ideology of maximising productivity while simultaneously minimising waste within a manufacturing operation. The lean principle sees waste is anything that doesn’t add value that the customers are willing to pay for.
+
  - Manufacturing happens in pipelines—raw materials flow through various manufacturing workstations to be transformed into finished goods.
 
 
  ***What is Agile?***
 
-Let us say <b>Mr. X</b> is a developer. So, one day Bart(Client) comes to Mr. X and said:
+Let us say **Mr. X** is a developer. So, one day Bart(Client) comes to Mr. X and said:
 
-<b>Bart:</b> Hi Mr. X! I want an application for the DOK community.</br> 
-<b>Mr. X:</b> Definitely Bart! What are the features that you would like to see in the application?</br>
-<b>Bart:</b> Yeah! The primary feature is it has to collect all the comments from all socials of dok community.</br>
-<b>Mr.X:</b> Fine! I will start working on your application.</br>
+- **Bart:** Hi Mr. X! I want an application for the DOK community.
+
+- **Mr. X:** Definitely Bart! What are the features that you would like to see in the application?
+
+- **Bart:** Yeah! The primary feature is it has to collect all the comments from all socials of dok community.
+
+- **Mr.X:** Fine! I will start working on your application.
 
 After a year… He delivers the project in one go.
 
-<b>Mr.X:</b> Hi Bart! Your application is ready.</br> 
-<b>Bart:</b> Yeah well, Why don’t you add another feature like collect all comments and filter the most common comments.
+- **Mr.X:** Hi Bart! Your application is ready.
+
+- **Bart:** Yeah well, Why don’t you add another feature like collect all comments and filter the most common comments.
 
 This would be frustrating. Because developing software may take months or years.
 
@@ -56,12 +65,13 @@ So this is where agile comes into play:
 - DataOps takes this jumbled mess and turns it into a smooth process where data teams aren’t spending their time trying to fix problems. They aren’t wasting their time trying to turn poor raw data into something usable. Instead, they can focus on what matters, namely providing actionable insights.
 - DataOps ensures that the raw data coming in is useable, it ensures that the results are accurate, it focuses on the value of people and working together, and it keeps the data team at the center of the company’s strategic objectives. After all, they no longer take months to come up with the required insights.
 
-Now here comes the big question of how Kubernetes help DataOps. Before that let us know <i>what is kubernetes in a nutshell</i>.
+Now here comes the big question of how Kubernetes help DataOps. Before that let us know ***what is kubernetes in a nutshell***.
 
-Let’s say you created an application(e.g Pokemon go) and decided to share it with the world. How can you do that? by deploying it to the internet. So you deployed this application into 5 different servers using docker. And your application starts getting massive traffic even you are not imagined. Millions of users started using. You are happy on one side simultaneously you are sad because you have to scale up the servers because 5 are not enough for such massive traffic. Now you need to scale up fast and make sure all containers restart if they die. And you will be gone out of control.</br>
- <i>This is where Kubernetes comes into play.</i>
+Let’s say you created an application(e.g Pokemon go) and decided to share it with the world. How can you do that? by deploying it to the internet. So you deployed this application into 5 different servers using docker. And your application starts getting massive traffic even you are not imagined. Millions of users started using. You are happy on one side simultaneously you are sad because you have to scale up the servers because 5 are not enough for such massive traffic. Now you need to scale up fast and make sure all containers restart if they die. And you will be gone out of control.
 
-Kubernetes is an open-source <b><i>container orchestration system for automating software deployment, scaling, and management.</i></b>
+ ***This is where Kubernetes comes into play.***
+
+Kubernetes is an open-source **container orchestration system for automating software deployment, scaling, and management.**
 
 - A Kubernetes cluster consists of a set of worker machines, called <i>nodes</i>, that run containerized applications.
 - Development teams and data science teams are increasingly interested in moving their build-test and model training environments to Kubernetes in order to drive efficiency and avoid vendor lock-in. When they make this migration, it is absolutely necessary for them to be able to take their clone-based processes with them so that they don’t lose all of the lifecycle efficiencies that they have achieved over the years. In fact, the lack of ability to clone a volume to a different namespace is often a showstopper. It is considered a best practice for different developers to work in different namespaces. This is done for security reasons, and there is typically no compromising when it comes to security. If clones are going to be included in the development lifecycle, the ability to clone workspaces to different namespaces is vital.
@@ -90,7 +100,7 @@ Kubernetes is an open-source <b><i>container orchestration system for automating
      > Recovery Mechanisms.
      > Constant Monitoring. and many more...
 
-Kubernetes environment is persistently becoming the leading platform for cloud computing. Consumers looking for dynamically-scheduled container-oriented <b>DataOps</b> solutions should consider Kubernetes-as-a-Service. 
+Kubernetes environment is persistently becoming the leading platform for cloud computing. Consumers looking for dynamically-scheduled container-oriented **DataOps** solutions should consider Kubernetes-as-a-Service. 
 
 
 Just like Devops, DataOps is also a methdology it's not a tool.
