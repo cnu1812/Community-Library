@@ -87,15 +87,22 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           {
             title: 'Community',
             items: [
-      
               {
-                label: 'Discord',
-                href: 'https://discord.com/invite/wVtcAT9kqU',
+                label: 'StackUp platform ',
+                href: 'https://app.stackup.dev/',
               },
               {
                 label: 'Twitter',
                 href: 'https://twitter.com/cnu1812',
               },
+              {
+                label: 'LinkedIn',
+                href: 'https://www.linkedin.com/company/stackupofficial/',
+              },
+              {
+                label: 'Discord',
+                href: 'https://discord.com/invite/wVtcAT9kqU',
+              }
             ],
           },
           {
@@ -108,6 +115,10 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
               {
                 label: 'GitHub',
                 href: 'https://github.com/cnu1812/community-library',
+              },
+              {
+                label: 'Facebook',
+                href: 'https://www.facebook.com/StackUpHQ',
               },
             ],
           },
