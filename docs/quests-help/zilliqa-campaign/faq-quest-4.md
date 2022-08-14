@@ -24,7 +24,7 @@ If the lasts command  shows your node version correctly you can continue with th
 
 ---
 
-### (Step 3) Issue: Showing a lot of errors while running "npm install"
+### (Step 3) Issue: "npm WARN EBADENGINE Unsupported engine" while running "npm install"
 It's probably a node version issue. You'll need the 16.16.0. To check your node version run at the terminal:
 ```node --version```
 if it's not the needed version, you have 2 ways to downgrade it:
@@ -51,6 +51,24 @@ nvm use 16.16.0
 **Install via executable**
 1. Go to the [node page](https://nodejs.org/en/) and install the **16.16.0 LTS** version.
 2. Run ```node --version``` in your terminal again and if it's showing "v16.16.0", you can continue with the quests.
+
+Ps: If you still recieve some errors after installing 16.16.0, try:
+- Run ```npm start``` ignoring the errrors.
+- If it doesn't work, try install the 12.16.0 version and run ```npm install``` again.
+
+---
+
+### (Step 3) Issue: "digital envelope routines: unsupported"
+
+Change this line of code in your package.json file
+
+```
+"Start" : "react-scripts start"
+```
+to
+```
+"Start" : "react-scripts --openssl-legacy-provider start"
+```
 
 ---
 
