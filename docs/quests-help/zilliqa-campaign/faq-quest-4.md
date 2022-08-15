@@ -3,7 +3,7 @@ id: faq-quest-4
 title: FAQ Quest 4
 ---
 
-This is the FAQ of the ***Quest 4: Hello World! Creating Your Web Application***. If you can't solve your issue here you still can ask your doubt in the discord server (#zilliqa-helpdesk channel).
+This is the FAQ of the ***Quest 4: Hello World! Creating Your Web Application***. If you can't solve your issue here you still can ask your doubt in the [discord server](https://discord.gg/3x3h2z6A63) (#zilliqa-helpdesk channel).
 
 ### (Step 3) Issue: npm: command not found
 You need to install node first:
