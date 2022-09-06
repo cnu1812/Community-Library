@@ -12,7 +12,7 @@
 module.exports = {
   // By default, Docusaurus generates a sidebar from the docs folder structure
   mainSidebar: [
-    'intro',
+    'PowerStackies', 'intro',
     {
       type: 'category',
       label: 'Learn - Basics',
