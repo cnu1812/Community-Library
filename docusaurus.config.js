@@ -14,6 +14,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   organizationName: 'cnu1812', // Usually your GitHub org/user name.
   projectName: 'Community Library', // Usually your repo name.
 
+  
+
   presets: [
     [
       '@docusaurus/preset-classic',
