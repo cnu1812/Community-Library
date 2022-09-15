@@ -1,6 +1,6 @@
 ---
-slug: What if I don't have a taskbar? 
-title: What if I don't have a taskbar? 
+slug: What if I don't have a taskbar! 
+title: What if I don't have a taskbar?
 authors: suzaku
 tags: [Quest help]
 ---
