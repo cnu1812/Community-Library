@@ -90,6 +90,18 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
                 label: 'Docs',
                 to: '/docs/intro',
               },
+              {
+                label: 'Sessions',
+                to: '/docs/community-learn/intro',
+              },
+              {
+                label: 'PowerStackies Guide',
+                to: '/docs/PowerStackies',
+              },
+              {
+                label: 'Leaderboard',
+                to: '/docs/PowerStackies',
+              }
             ],
           },
           {
