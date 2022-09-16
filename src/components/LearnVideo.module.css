@@ -1,0 +1,15 @@
+.videocontainer {
+  margin: 0;
+  padding: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.iframeround {
+  width: 80vw;
+  height: 45vw;
+  max-width: 600px;
+  max-height: 337.5px;
+  border-radius: 20px;
+}
