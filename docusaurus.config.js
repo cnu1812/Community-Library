@@ -92,7 +92,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
               },
               {
                 label: 'Sessions',
-                to: '/docs/community-learn',
+                to: '/docs/community-learn/intro',
               },
               {
                 label: 'PowerStackies Guide',
