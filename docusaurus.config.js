@@ -13,7 +13,6 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   favicon: 'img/favicon.ico',
   organizationName: 'cnu1812', // Usually your GitHub org/user name.
   projectName: 'Community Library', // Usually your repo name.
-
   
 
   presets: [
@@ -25,6 +24,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl: 'https://github.com/cnu1812/community-library',
+          
         },
         blog: {
           showReadingTime: true,
