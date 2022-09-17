@@ -11,7 +11,9 @@ In this code along session, stackies will
 1. learn abc
 2. explain xyz
 
-<figure class= "video_container"> <iframe class = "iframe-round" width="560" height="315" src="https://www.youtube.com/embed/OqCK95AS-YE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </figure>
+import Video from '@site/src/components/LearnVideo';
+
+<Video link="https://www.youtube.com/embed/OqCK95AS-YE"></Video>
 
 
 ### Things to try
