@@ -2,14 +2,15 @@
 
 ### Description of the session
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+In this session will talk about CSS animations. a typical question might be, "how do i create a custom animation?" or "what automation should I use to create an animated webpage?"
+I'll be using css to help me create my animation. and I'm going to use css files for the animations. but you don't need to be expert in this we'll learn along the way.
 
 ### Learning outcomes
 
 In this code along session, stackies will
 
-1. learn abc
-2. explain xyz
+1. learn how to use css to animate web pages/site
+2. Clearing myths and doubts about css.
 
 import Video from '@site/src/components/LearnVideo';
 
@@ -20,7 +21,8 @@ import Video from '@site/src/components/LearnVideo';
 
 After watching this video, these are some of the things stackies wanna try:
 
-1. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-2. Cras tincidunt purus vitae nisi venenatis efficitur eu eget nunc.
-3. Nullam volutpat est ac ex fringilla, eu eleifend nisi facilisis.
+1. Try to code along with speaker and share your repo
+2. Try doing different animations and share with us below
+
+If you have any doubts/questions feel free to ask below!
 

@@ -5,20 +5,22 @@
 
 
      
-## CV edit session or title of the session
+## Modify Your CV With BERN
 
 
 
 ### Description of the session
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+This event will cover what are some of the simplest edits we can make to our CV to make it more appealing to potential employers or organisations. We'll also go through some tips and tricks that online articles will rarely tell you about! How to edit your CV
+When you're preparing for a job, you want to think about what you have to offer. How can you make your experiences and skills better than you thought possible?
 
 ### Learning outcomes
 
 In this session, stackies will
 
-1. learn abc
-2. explain xyz
+1. How can you make your experiences and skills better than you thought possible?
+2. What is the best way to use information in your resume?
+3. Can you go for an internship or a short-term job?
 
 import Video from '@site/src/components/LearnVideo';
 
@@ -29,6 +31,7 @@ import Video from '@site/src/components/LearnVideo';
 
 After watching this video, these are some of the things stackies wanna try:
 
-1. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-2. Cras tincidunt purus vitae nisi venenatis efficitur eu eget nunc.
-3. Nullam volutpat est ac ex fringilla, eu eleifend nisi facilisis.
+1. Edit your CV accordingly suggested by our speaker.
+2. Share your CV below in the comments.
+
+If you have any doubts/questions feel free to ask below!
