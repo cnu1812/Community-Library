@@ -1,5 +1,9 @@
+<head>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4495539212307146"
-     crossorigin="anonymous"></script>
+     crossorigin="anonymous"></script> 
+</head>
+
+
      
 ## CV edit session or title of the session
 
