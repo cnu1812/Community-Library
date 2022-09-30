@@ -156,11 +156,11 @@ module.exports = {
               },
               {
                 label: 'Privacy Policy',
-                to: '/src/pages/privacyPolicy',
+                
               },
               {
                 label: 'Terms of Use',
-                to: '/src/pages/Terms-of-services',
+                
               },
             ],
           },
