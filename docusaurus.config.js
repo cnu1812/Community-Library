@@ -2,6 +2,18 @@ const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 // With JSDoc @type annotations, IDEs can provide config autocompletion
+
+module.exports = {
+  plugins: ["@chatwoot/docusaurus-plugin"],
+  themeConfig: {
+    chatwoot: {
+      websiteToken: "QN9DEVscSMXmiV3nKZb8t6iK",
+      baseURL: "https://app.chatwoot.com",  // optional
+      enableInDevelopment: false,  // optional
+    }
+  }
+};
+
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 (module.exports = {
   title: 'Community Library',
@@ -14,10 +26,10 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   organizationName: 'cnu1812', // Usually your GitHub org/user name.
   projectName: 'Community Library', // Usually your repo name.
   
-
   presets: [
     [
       '@docusaurus/preset-classic',
+      
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
@@ -41,7 +53,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
-    ({
+    (
+
+      {
       navbar: {
         title: 'Community Library',
         logo: {
@@ -149,5 +163,10 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      
+      gtag: {
+          trackingID: 'G-70XSTSEBJP',
+          ananymizeIP:true,
+        },
     }),
 });
