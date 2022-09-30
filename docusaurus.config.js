@@ -154,6 +154,14 @@ module.exports = {
                 label: 'Facebook',
                 href: 'https://www.facebook.com/StackUpHQ',
               },
+              {
+                label: 'Privacy Policy',
+                to: '/src/pages/privacyPolicy',
+              },
+              {
+                label: 'Terms of Use',
+                to: '/src/pages/Terms-of-services',
+              },
             ],
           },
         ],
