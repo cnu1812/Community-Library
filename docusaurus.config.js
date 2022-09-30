@@ -154,6 +154,14 @@ module.exports = {
                 label: 'Facebook',
                 href: 'https://www.facebook.com/StackUpHQ',
               },
+              {
+                label: 'Privacy Policy',
+                href: 'https://community-library.netlify.app/privacypolicy/',
+              },
+              {
+                label: 'Terms of  use',
+                href: 'https://community-library.netlify.app/terms-of-services/',
+              },
               
             ],
           },
