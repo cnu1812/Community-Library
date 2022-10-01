@@ -11,3 +11,8 @@ Hello, I hope you've had the time to start your Quiz builds! Today we will be re
 - Have you noticed any other changes in Javascript over the years? 
 
 Please share your thoughts, and feel free to respond to comments made by other folks!
+
+### Comments
+import Comment from '@site/src/components/Comments';
+
+<Comment></Comment>

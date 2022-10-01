@@ -24,3 +24,7 @@ After watching this video, these are some of the things stackies wanna try:
 2. Cras tincidunt purus vitae nisi venenatis efficitur eu eget nunc.
 3. Nullam volutpat est ac ex fringilla, eu eleifend nisi facilisis.
 
+### Comments
+import Comment from '@site/src/components/Comments';
+
+<Comment></Comment>

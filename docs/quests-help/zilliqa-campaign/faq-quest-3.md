@@ -13,3 +13,8 @@ The transaction takes around 5-10 mins. If it's not working for you:
   2. Click in the gear icon.
   3. Go to Account and change the *Selected Network* to testnet.
   4. And finally, click at the close icon (x) (**not the reset button**) and check whether your transaction is done.
+
+### Comments
+import Comment from '@site/src/components/Comments';
+
+<Comment></Comment>

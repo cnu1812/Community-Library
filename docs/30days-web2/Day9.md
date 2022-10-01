@@ -20,3 +20,8 @@ If you are not familiar with creating a landing page, here's two tutorials that 
 For building a portfolio website, here's one by freeCodeCamp. Watch until 2:08:44. It's a pretty long video, so maybe split up the coding into 4 days. https://bit.ly/portfoliosite-fcc
 
 As usual feel free to share your buildings...
+
+### Comments
+import Comment from '@site/src/components/Comments';
+
+<Comment></Comment>

@@ -11,3 +11,8 @@ Hello, we have reached the end of the first week of 30DaysofWeb2! 🚀  You've r
 Let's see how you fare in this quiz! Results will be released once you submit the quiz!
 
 Do share your scores...
+
+### Comments
+import Comment from '@site/src/components/Comments';
+
+<Comment></Comment>

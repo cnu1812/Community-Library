@@ -10,3 +10,8 @@ For our first build, we will start with building a **Javascript Quiz Game**. Sin
 For beginners, you might want to complete the Javascript campaign on the StackUp platform first, then refer to this tutorial where you will be building a MCQ quiz that gives the score upon pressing a button: https://bit.ly/js-quiz-build  .
 
 For more experienced web developers, the challenge is for you to create a more advanced quiz game. Some suggestions would be to accept fill in the blank answers that utilises regex, or create a MCQ quiz with a timer. 
+
+### Comments
+import Comment from '@site/src/components/Comments';
+
+<Comment></Comment>

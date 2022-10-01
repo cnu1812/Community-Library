@@ -99,3 +99,8 @@ week
 
 ### If you feel your question isn't answered or not clear about something feel free to ask here [#power-stackies-guild](https://discord.gg/3x3h2z6A63).
 
+### Comments
+import Comment from '@site/src/components/Comments';
+
+<Comment></Comment>
+

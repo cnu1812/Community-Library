@@ -29,6 +29,11 @@ Your site starts at `http://localhost:3000`.
 
 Open `docs/intro.md` and edit some lines: the site **reloads automatically** and display your changes.
 
+### Comments
+import Comment from '@site/src/components/Comments';
+
+<Comment></Comment>
+
 
 
 
