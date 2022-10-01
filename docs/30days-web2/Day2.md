@@ -11,3 +11,8 @@ After reading this article, share your thoughts:
 
 - What are your thoughts on looking at the roadmap? 
 - Where are you in your web development journey? What are you currently focusing on, and what's next for you? 
+
+### Comments
+import Comment from '@site/src/components/Comments';
+
+<Comment></Comment>

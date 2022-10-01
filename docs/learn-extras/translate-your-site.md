@@ -86,3 +86,8 @@ Or build your site to include all the locales at once:
 ```bash
 npm run build
 ```
+
+### Comments
+import Comment from '@site/src/components/Comments';
+
+<Comment></Comment>

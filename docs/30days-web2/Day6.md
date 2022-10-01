@@ -16,3 +16,8 @@ Once you're done reading, here are some questions that you can think about:
 - How's your experience with Javascript so far?
 
 Feel free to answer above questions...
+
+### Comments
+import Comment from '@site/src/components/Comments';
+
+<Comment></Comment>

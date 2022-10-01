@@ -45,3 +45,8 @@ Have to add this code
 ```
 
 **If you, not find your question or you feel something is missing please feel free to add more questions.** 
+
+### Comments
+import Comment from '@site/src/components/Comments';
+
+<Comment></Comment>

@@ -53,3 +53,8 @@ module.exports = {
   ],
 };
 ```
+
+### Comments
+import Comment from '@site/src/components/Comments';
+
+<Comment></Comment>

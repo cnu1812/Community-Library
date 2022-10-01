@@ -16,3 +16,8 @@ Hello, help is here for you guys to design a website!
  
 - Do you know of any websites which make good use of any of these three principles? Share the link here.
 - Which of these principles will you pay special attention to when designing your website?
+
+### Comments
+import Comment from '@site/src/components/Comments';
+
+<Comment></Comment>

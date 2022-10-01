@@ -7,3 +7,8 @@ Podcast: https://bit.ly/developers-need-twitter
 One of the things mentioned by Randall was that she had to establish credibility and visibility in the Twitterverse. What could be one thing you can do to increase your credibility as a web developer?
 
 Also, since we talked about growing our following on Twitter, a thread is now created. Feel free to post your Twitter accounts in the thread, so that your fellow Web Dev Stackies can follow you!
+
+### Comments
+import Comment from '@site/src/components/Comments';
+
+<Comment></Comment>

@@ -27,3 +27,8 @@ So, in summary, it depends on your goals.
 ***If your goal is to become a full-fledged software dev, knowing python alone won't get you there (in fact, it likely won't help much). if you want to be in the machine learning/data science sphere, however, python will definitely be a useful skill for you. or, if you just like playing around with programming, then python is great!***
 
 If you want to get into web dev, javascript is a must. **End of story.**
+
+### Comments
+import Comment from '@site/src/components/Comments';
+
+<Comment></Comment>

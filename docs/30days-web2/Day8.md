@@ -19,3 +19,8 @@ Today's article covers:
 Share your thoughts after reading the article. 
 - Were there new things you learnt from this article? 
 - Were there parts that you didn't understand too well and might be googling to find out more?
+
+### Comments
+import Comment from '@site/src/components/Comments';
+
+<Comment></Comment>

@@ -78,3 +78,8 @@ If your button it's not working, you need to check:
 - You paste the contract address correctly:
 	- Your code must the format provided in the placeholder (add 0x in the beginning)
 	- You need to copy the contract address from the Neo Savant IDE:
+
+### Comments
+import Comment from '@site/src/components/Comments';
+
+<Comment></Comment>

@@ -20,8 +20,12 @@ import Video from '@site/src/components/LearnVideo';
 ### Things to try
 
 After watching this video, these are some of the things stackies wanna try:
-
 1. Try to code along with speaker and share your repo
 2. Try doing different animations and share with us below
 
 If you have any doubts/questions feel free to ask below!
+
+### Comments
+import Comment from '@site/src/components/Comments';
+
+<Comment></Comment>

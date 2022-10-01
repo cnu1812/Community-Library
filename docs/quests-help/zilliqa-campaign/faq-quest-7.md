@@ -22,3 +22,8 @@ This is the FAQ of the ***Quest 4: Project Concert Tickets - Smart Contract***. 
 ![error](https://media.discordapp.net/attachments/1004955384341090394/1008625229658062898/unknown.png?width=1156&height=614)
 
 - Check your gas limit  should be 35000.
+
+### Comments
+import Comment from '@site/src/components/Comments';
+
+<Comment></Comment>

@@ -26,3 +26,7 @@ After watching this video, these are some of the things stackies wanna try:
 
 If you have any doubts/questions feel free to ask below!
 
+### Comments
+import Comment from '@site/src/components/Comments';
+
+<Comment></Comment>

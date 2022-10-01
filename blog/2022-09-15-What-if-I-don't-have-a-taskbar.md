@@ -14,3 +14,8 @@ Not everyone uses the **Windows or Mac** operating systems. There are many other
  For Ubuntu and Ubuntu-based Linux distribution users, install a **GNOME Shell extension** which will allow you to display a taskbar. You can find it [here](https://technastic.com/windows-like-taskbar-ubuntu-gnome/):
  
  https://technastic.com/windows-like-taskbar-ubuntu-gnome/
+
+ ### Comments
+import Comment from '@site/src/components/Comments';
+
+<Comment></Comment>

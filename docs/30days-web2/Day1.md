@@ -12,3 +12,8 @@ For today, we have two articles to read. Since you have chosen this web develope
 After reading the articles, share your thoughts:
  - What type of web developer do you hope to be?
  - What soft skills do you think you can improve in to be a better web developer?
+
+ ### Comments
+import Comment from '@site/src/components/Comments';
+
+<Comment></Comment>

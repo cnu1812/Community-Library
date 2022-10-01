@@ -13,3 +13,8 @@ Hello, I hope you guys are in the middle of your Quiz builds! Today's article is
 - Have there been cases where someone has commented that your code cannot be easily understood?
 
 As usual, feel free to comment on what other folks share!
+
+### Comments
+import Comment from '@site/src/components/Comments';
+
+<Comment></Comment>
