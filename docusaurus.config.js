@@ -3,17 +3,6 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 // With JSDoc @type annotations, IDEs can provide config autocompletion
 
-module.exports = {
-  plugins: ["@chatwoot/docusaurus-plugin"],
-  themeConfig: {
-    chatwoot: {
-      websiteToken: "QN9DEVscSMXmiV3nKZb8t6iK",
-      baseURL: "https://app.chatwoot.com",  // optional
-      enableInDevelopment: false,  // optional
-    }
-  }
-};
-
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 (module.exports = {
   title: 'Community Library',
@@ -46,6 +35,10 @@ module.exports = {
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
+        },
+        gtag: {
+          trackingID: 'G-70XSTSEBJP',
+          anonymizeIP:true,
         },
       }),
     ],
@@ -172,10 +165,5 @@ module.exports = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
-      
-      gtag: {
-          trackingID: 'G-70XSTSEBJP',
-          ananymizeIP:true,
-        },
     }),
 });
