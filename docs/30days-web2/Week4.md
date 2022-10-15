@@ -7,12 +7,12 @@ Hey all! Javascript libraries and frameworks are all the rage these days. You pr
 
 Today's 3-minute reading shares the importance of understanding Javascript before implementing JS libraries and frameworks. Do you agree with the author's viewpoint? 
 
-Article: https://bit.ly/day22-vanillajs
+[Article](https://bit.ly/day22-vanillajs)
 
 ## Day 23
 Hey mates! In yesterday's article, we discussed the importance of learning Javascript. But what if Javascript is pretty difficult to learn? In today's 5-minute read, we have some advice from a self-taught developer, Robert, on how to learn Javascript the right way, so that you can confidently overcome the challenges. 
 
-Article: https://bit.ly/day23-understandingJS
+[Article](https://bit.ly/day23-understandingJS)
 
 - After reading the article, which particular advice do you feel is something you would tell beginning developers, and why?
 
@@ -22,7 +22,6 @@ Hey! If you have taken part in the recent Zilliqa campaign, you would have seen 
  
 In today's 14-minute video, learn more about what Node Package Manager is, and why we use it. The video also explains different npm commands used and the significance of the package.json file. 
  
-Video: https://bit.ly/day24-npm
 
 import Video from '@site/src/components/LearnVideo';
 
@@ -36,7 +35,7 @@ Morning all! Within CSS, there are so many different properties and values to us
  
  In today's 33-minute podcast, **Kylo Robinson**, the creator of The Great Sync Javascript Mental Model, shares some memory techniques to help you learn coding. If podcasts are not your thing, don't worry - there's a transcript available that you can read through. 
  
- Podcast: https://bit.ly/day25-memory-technique
+ [Podcast](https://bit.ly/day25-memory-technique)
  
  - What is one method you wish to try from the podcast to help you remember code better?
 
@@ -46,7 +45,7 @@ Hey! While we have been discussing CSS and JS for web development in this 30-day
 
 Yes, Python is a very versatile language, and beyond data science, you can use the web frameworks Django and Flask to help you create websites. This article will briefly go through how one can get started on web development with Python. 
 
-Article: https://bit.ly/day26-webdev-python
+[Article](https://bit.ly/day26-webdev-python)
 
 - After reading the article, share your thoughts on whether you might want to use Python for Web Development!
 
@@ -54,7 +53,7 @@ Article: https://bit.ly/day26-webdev-python
 
 Hey, for some people starting out in their journey as web developers, they might look to build their own portfolio. As such, they might look to becoming a freelance web developer. But being a freelancer comes with its own challenges. In today's 20-minute read, learn about the different things you must consider when becoming a freelancer. It also analyses the pros and cons of being one, which might help you with your decision. 
  
- Article: https://bit.ly/day27-freelancer
+ [Article](https://bit.ly/day27-freelancer)
  
  - Is being a freelancer something you're interested in doing? Or do you prefer having an established role in a company. Why?
 
@@ -70,7 +69,7 @@ Hello, we have reached the 28th day of 30DaysofWeb2! 🚀  You've read so much t
 
 Hey! As we near the end of the 30-day challenge, it's time to look at some material that might help you land a job. In today's article, we will be looking at six full-stack developer interview questions. This article does not provide all the answers, and it's really up to you to do your own research and studying. But it does provide you some direction into what you should know well. 
 
-Article: https://bit.ly/day29-developer-interview
+[Article](https://bit.ly/day29-developer-interview)
 
 - Are you confident in answering at least one of the questions in this article? Otherwise, which question are you going to research on?
 
@@ -80,7 +79,7 @@ Hello Web2Dev! We have finally reached the last day of our 30 Days! I hope you g
 
 On this last day, we are going to cover frontend interviews. This 51-minute podcast 🎵  will cover the experiences of technical interviews, how the whole interview process is like, some of the take home challenges, and how to get better at interviews. Even if you are not at the stage of preparing for an interview, this podcast will give you a good idea of what you can expect, and you can start preparing early. 
 
-Podcast: https://bit.ly/day30-frontend-interview
+[Podcast](https://bit.ly/day30-frontend-interview)
 
 - Have you ever sat for a front end interview before?
 -  What were some questions that you found challenging? 
