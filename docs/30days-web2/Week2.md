@@ -32,11 +32,11 @@ Let's try to complete this by Sunday! So you have about 5 days!
  
 If you are not familiar with creating a landing page, here's two tutorials that you can follow along:
 
-➡️ Create one using Canva (no coding but assumes you know Canva): https://bit.ly/landingpage-canva.
+➡️ Create one using Canva (no coding but assumes you know Canva): [Landing page with canva](https://bit.ly/landingpage-canva) .
 
-➡️ With HTML and CSS: https://bit.ly/landingpage-css 
+➡️ [With HTML and CSS:](https://bit.ly/landingpage-css). 
  
-For building a portfolio website, here's one by freeCodeCamp. Watch until 2:08:44. It's a pretty long video, so maybe split up the coding into 4 days. https://bit.ly/portfoliosite-fcc
+For building a portfolio website, here's one by freeCodeCamp. Watch until 2:08:44. It's a pretty long video, so maybe split up the coding into 4 days. [Landing Page](https://bit.ly/portfoliosite-fcc)
 
 As usual feel free to share your buildings...
 
@@ -70,7 +70,7 @@ pssst... I hear that we might be looking for Stackies who are more experienced i
 
 Hello, for today we will be listening to a 10-minute podcast. You would notice that developers in general have a Twitter account. Why is it important for developers to have a Twitter account and how can it help you in your role? This podcast will share some of the benefits of having a Twitter account and how it can help you in your journey.
 
-Podcast: https://bit.ly/developers-need-twitter
+[Podcast](https://bit.ly/developers-need-twitter)
 
 
 

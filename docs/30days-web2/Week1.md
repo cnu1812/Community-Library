@@ -77,7 +77,6 @@ Feel free to answer the above questions...
 
 Hello, we have reached the end of the first week of 30DaysofWeb2! 🚀  You've read so much and hopefully built a quiz in the past 6 days. Now, time to test your knowledge with a quiz! 
 
-📝  Quiz: https://forms.gle/gZzaPNZ3ZjPC7tE66 
 
 <iframe src = "https://forms.gle/gZzaPNZ3ZjPC7tE66" height= "400px" width= "900px"></iframe>
 

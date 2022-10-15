@@ -5,7 +5,7 @@ Hello folks, in the next few days we will be looking at stories 📚  of how dif
  
 Today's article is a 25-minute read by **Charlie Jeppsson**, a full stack developer who studied a business degree, attended a coding bootcamp, and created a few apps on his own. He details his learning journey and also his interview process. 
  
-Article: https://bit.ly/landing-a-fullstack-role1 
+[Article](https://bit.ly/landing-a-fullstack-role1) 
  
 - After reading the article, do you agree with Charlie's thinking that it's important to attend a coding bootcamp, and why?
 
@@ -13,7 +13,7 @@ Article: https://bit.ly/landing-a-fullstack-role1
 
 Hello folks, today we will build our third project, which is a **To-do list app** using HTML, CSS and Javascript. A to-do list allows you to create tasks and also delete them once you are done with them. In some cases, more advanced functionalities can also include editing the existing tasks. This will showcase your ability of DOM manipulation. Here are two resources that you can use in building your own to-do list:
 
-- A 4-step tutorial where you can copy the code which allows you to create a to-do list which you can create and delete tasks:  https://bit.ly/todolist-CRD-tutorial
+- A 4-step tutorial where you can copy the code which allows you to create a to-do list which you can create and delete tasks: [CRUD](https://bit.ly/todolist-CRD-tutorial) .
 
 -  A 37-min video that allows you to create a to-do list that can create, update and delete tasks. Also explains and shows how each step looks like: 
 
@@ -23,7 +23,7 @@ import Video from '@site/src/components/LearnVideo';
 
 <Video link="https://youtube.com/embed/MkESyVB4oUw"></Video>
 
-If you done, feel free to share your repo.
+- If you done, feel free to share your repo.
 
 ## Day 17
 
@@ -38,7 +38,7 @@ Hello folks, in today's video, **James**, an experienced web developer, shares s
 
 Hello folks,in today's 47-minute podcast, learn from **Iheanyi Ekechukwu** who does full stack development and product engineering and works at GitHub. He shares about his journey in full stack development and his work.
  
-Podcast: https://bit.ly/day18-podcast 
+[Podcast](https://bit.ly/day18-podcast)
  
 - What were some points in this podcast that you resonated with?
 
@@ -48,7 +48,7 @@ Podcast: https://bit.ly/day18-podcast
 
 Hi all! On day 15, we read about how **Charlie** attended a coding bootcamp, which helped to accelerate his progress towards being a web developer. In today's reading, we examine the journey of **Robert** who felt that the cost of such bootcamps are expensive, and he decided to put himself through his own bootcamp.
 
-Article: https://bit.ly/day19-selftaughtcoder
+[Article](https://bit.ly/day19-selftaughtcoder)
 
 - After reading this article, what do you think of Robert's development path?
 
@@ -58,7 +58,7 @@ Article: https://bit.ly/day19-selftaughtcoder
 
 Hola all, in today's 5-minute read 📰 , a web developer shares 10 lessons 💡 from his 12-year journey as a web developer. Some of these lessons actually echo the points from our Day 1 reading such as having empathy for users and problem solving. 
 
-Article: https://bit.ly/day20-lessons-webdev
+[Article](https://bit.ly/day20-lessons-webdev)
 
 - After you have read this article, share with us which of these 10 lessons resonated with you (the one that made you go **"Yes, that's me!"**).
 
