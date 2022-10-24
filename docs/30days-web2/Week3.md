@@ -69,3 +69,5 @@ Hello! Today we are building again, but this should be a little simpler than the
 Once you are done building, do drop a link or a video showing that you've completed it!
 
 This is also our last build for the 30-Days Challenge. I know some of you guys are still building your portfolio sites or to-do lists, so no worries, work on what you think helps you best! 
+
+[Download the Source Code](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U)
