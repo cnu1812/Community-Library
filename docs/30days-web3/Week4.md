@@ -54,7 +54,7 @@ Hey. Today, let’s continue on the topic of DeFi! A key infrastructure of DeFi 
 
 So how do we carry out trade between multiple parties without a trusted middle man? Find out how in today’ content drop! This 12min video explains all you need to know about how a DEX works. 🔥 
 
-**How a DEX works**  https://bit.ly/how-a-dex-works
+[How a DEX works](https://bit.ly/how-a-dex-works)
 
 <Video link="https://youtube.com/embed/rnVi-b7UqmY"></Video>
 
