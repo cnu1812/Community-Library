@@ -1,57 +1,50 @@
-![image](https://user-images.githubusercontent.com/75118658/193441891-f4e14df7-2213-4ac1-b9a7-c9811e6cf54a.png)
+# Chatbot for the site (Currently deployed using Flask)
 
-# Scratch-AI [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+* Chatbot using Deep Learning and Flask techniques. The chatbot is trained on a dataset containing categories (intents), pattern and responses. We use a special Artificial Neural Network (ANN) to classify which category the user’s message belongs to and then we give a random response from the list of responses.
 
----
+* :dart: To build a basic chatbot which can converse with the user about the site and services that the site provides.
 
+## Initial Setup
 
-✨ **The Scratch-AI** is a repository with different algorithms of Machine Learning & Deep Learning implemented from scratch. 
+* Clone 
 
-🗄 The main motto behind this repository is to grasp the mathematical aspect and intuition of different AI algorithms.
-
-🤖 AI is being used everywhere nowadays, but people don't know about implementation of complex mathematical functions behind the scene.
-
-## Table of Contents
-- [ScratchAI](#scratch-ai-)
-    * [Machine Learning Algorithms](/traditional_ML_algorithms/)
-      * [Decision Trees](/traditional_ML_algorithms/Decision%20Trees/)
-      * [Linear Regression](./traditional_ML_algorithms/SimpleLinearRegression)
-      * [Logistic Regression](./traditional_ML_algorithms/LogisticRegression)
-      * [KNN](./traditional_ML_algorithms/KNN)
-      * [K-Means](./traditional_ML_algorithms/K-Means)
-      * [SVM](/traditional_ML_algorithms/svm%20algotrithm/)
-    * [Deep Learning Algorithms](/deep_learning_algorithms/)
-      * [Adam Optimizer](/DL_algorithms/Adam%20Optimizer/)
-      * [Convolutional Neural Network](./DL_algorithms/Convolutional%20Neural%20Network/)
-      * [Multi Layer Perceptron](./DL_algorithms/MultiLayerPerceptron/)
-      * [Word2Vec](./DL_algorithms/word2vec/)
-    * [Contributions](#contributions)
-    * [Maintainers](#maintainers)
-
-## Contributions  
----
-
-We welcome all kinds of contributions from the open-source community, individuals and partners. We owe our success to
-your active involvement.
-
-Contributors can contribute to the project in the following ways:  
-
-1. Contributing by fixing existing issues.
-2. Submitting a better layer design or algorithm than the existing one.
-3. Submitting new layer design or algorithm.
-
-NOTE: For detailed instructions refer to [CONTRIBUTING.md](CONTRIBUTING.md)
+![main1](https://user-images.githubusercontent.com/86421205/196366043-b98151a9-b102-4784-a90a-ca2b40cd101b.jpg)
 
 
-## Maintainers
+## :pencil2: Bidirectional LSTM
+* LSTM stands for Long Short Term Memory. It is a special kind of Recurrent Neural Network [RNN].
+* While computing an embedding matrix, the meaning of every word and its calculations (called hidden states) are stored.
+* RNNs are not capable of storing long term dependencies due to vanishing gradient.
+* LSTMs have a gated network which can handle the problem of vanishing gradient. The LSTM consists of three parts : 
+ 1. *Forget Gate*
+ 2. *Input Gate*
+ 3. *Output Gate*
 
----
+![Screenshot](https://user-images.githubusercontent.com/86421205/196361910-0b9dad40-93be-4b48-822d-a3964c869eff.jpg)
 
+* Bidirectional LSTM consists of two models. The first model learns the sequence of input provided and the second moel learns the reverse of that sequence.
+* This structure allows the networks to have both backward and forward information about the sequence at every time step.
 
-| <a href="https://github.com/mayureshagashe2105"><img src="https://avatars.githubusercontent.com/u/75118658?v=4" width=150px height=150px /></a>| <a href="https://github.com/Vishesht27"><img src="https://avatars.githubusercontent.com/u/72491817?v=4" width=150px height=150px /></a>| <a href="https://github.com/HemanthSai7"><img src="https://avatars.githubusercontent.com/u/73033596?v=4" width=150px height=150px /></a>|
-| :---: | :---: | :---: |
-| **[Mayuresh Agashe](https://github.com/mayureshagashe2105)**| **[Vishesh Tripathi](https://github.com/Vishesht27)**| **[Hemanth Sai](https://github.com/HemanthSai7)**|
-| <a href="https://www.linkedin.com/in/mayureshagashe2105/"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px"></a>| <a href="https://www.linkedin.com/in/vishesh-tripathi/"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px"></a>| <a href="https://www.linkedin.com/in/hemanthsai3187/"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px"></a>|
+![1_B5NHtY8_Y4we0DE4Y-acBA](https://user-images.githubusercontent.com/86421205/196361977-9f476005-6c92-4960-9c73-d02ba5adfaad.png)
 
+**Libraries Required**
 
+* *Pandas* - for data analysis
+* *Numpy* - for data analysis
+* *matplotlib* - for data visualization
+* *seaborn* - for data visualization
+* *scikit-learn* - for data analysis
+* *nltk* - text preprocessing
 
+**Dataset**
+* https://www.kaggle.com/code/ankurzing/sentiment-analysis-of-commodity-news/data
+
+### Evaluation
+* Sentiment analysis model obtained 94% accuracy on the training set and 90% accuracy on the test set.
+![download (2)](https://user-images.githubusercontent.com/86421205/196364995-2dc1d9ed-911d-4cb5-93a4-2b8cede32e1d.png)
+
+# Prajwal Uday :india:
+
+Connect with me on Linkedin: https://www.linkedin.com/in/prajwal-uday-1b9678229/
+
+Check out my Github profile: https://github.com/prajwal-144
