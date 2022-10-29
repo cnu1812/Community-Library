@@ -1,4 +1,4 @@
-# Chatbot for the site (Currently deployed using Flask)
+# Chatbot for the site 
 
 :dart: To build a basic chatbot which can converse with the user about the site and services that the site provides.
 
@@ -6,12 +6,12 @@
 
 ## File Structure
 
-* *intents.json* – The file containing predefined patterns and responses.
-* *training.py* – Script to build the model and train the chatbot.
-* *app.py* – Flask Python script to implement web-based GUI for the chatbot. Users can interact with the bot.
-* #*Texts.pkl*# – Pickle file to store the words using nltk containing a list of the vocabulary.
-* *Labels.pkl* – The classes pickle file containing the list of categories(Labels).
-* *model.h5* – Trained model containing information about the model and consists of weights of the neurons.
+* *intents.json* : The file containing predefined patterns and responses.
+* *training.py*  : Script to build the model and train the chatbot.
+* *app.py*       : Flask Python script to implement web-based GUI for the chatbot. Users can interact with the bot.
+* *Texts.pkl*    : Pickle file to store the words using nltk containing a list of the vocabulary.
+* *Labels.pkl*   : The classes pickle file containing the list of categories(Labels).
+* *model.h5*     : Trained model containing information about the model and consists of weights of the neurons.
 
 ## Setup
 
