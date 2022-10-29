@@ -6,18 +6,28 @@
 
 ## File Structure
 
-* intents.json – The file containing predefined patterns and responses.
-* training.py – Script to build the model and train the chatbot.
-* app.py – Flask Python script to implement web-based GUI for the chatbot. Users can interact with the bot.
-* Texts.pkl – Pickle file to store the words using nltk containing a list of the vocabulary.
-* Labels.pkl – The classes pickle file containing the list of categories(Labels).
-* model.h5 – Trained model containing information about the model and consists of weights of the neurons.
+* *intents.json* – The file containing predefined patterns and responses.
+* *training.py* – Script to build the model and train the chatbot.
+* *app.py* – Flask Python script to implement web-based GUI for the chatbot. Users can interact with the bot.
+* *Texts.pkl* – Pickle file to store the words using nltk containing a list of the vocabulary.
+* *Labels.pkl* – The classes pickle file containing the list of categories(Labels).
+* *model.h5* – Trained model containing information about the model and consists of weights of the neurons.
 
 ## Setup
 
 * Modify and save the *intents.json* file as per the required intents and responses for the Chatbot.
 * Run the *training.py* file. Make sure the *.pkl* and *.h5* files are generated.
+  ```
+  >python training.py
+  ```
 * Run the *app.py* file. Copy and paste the url generated on a browser window.
+  ```
+  flask run
+  ```
+  OR
+  ```
+  python app.py
+  ```
 * Chatbot is ready to converse!
 
 ## Output
