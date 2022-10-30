@@ -1,0 +1,113 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hey",
+        "How are you",
+        "Is anyone there?",
+        "Hello",
+        "Good day",
+        "Wassup",
+        "Knock Knock"
+      ],
+      "responses": [
+        "Hey :-)",
+        "Hello, thanks for visiting",
+        "Hi there, what can I do for you?",
+        "Hi there, how can I help?",
+        "Hey Wassup",
+        "Who's there?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Bye", "See you later", "Goodbye"],
+      "responses": [
+        "See you later, thanks for visiting",
+        "Have a nice day",
+        "Bye! Come back again soon."
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["Thanks", "Thank you", "That's helpful", "Thank's a lot!"],
+      "responses": ["Happy to help!", "Any time!", "My pleasure", "No Issues", "No problem"]
+    },
+    {
+      "tag": "community",
+      "patterns": [
+        "What is this for?",
+        "What does this community do?",
+        "What do you specialize in?",
+        "What is this community about?"
+      ],
+      "responses": [
+        "This community-library is built for all community members, to have a one place for all available resources at one place.",
+        "This community-library is built for all community members, to have a one place for all available resources at one place."
+      ]
+    },
+    {
+      "tag": "service",
+      "patterns": [
+        "What services do you provide?",
+        "What all can we do in the community?",
+        "What does the community provide?",
+        "What do you provide?",
+        "What can I do here?"
+      ],
+      "responses": [
+        "Kick-start your learning journey with our Learn courses on the latest and hottest development technologies. You can earn by participating in our Campaigns and Quests - where you get to put your skills to the test and enhance your dev knowledge!. We also host events like seminars, sharings, panel talks and workshops where you can connect and interact with great minds from all over the world ",
+        "We provide courses to people willing to learn new technologies. We organize campaigns, quests where you can participate and win cash prizes. We also host seminars, sharings, panel talks and workshops where you can connect and interact with great minds from all over the world "
+
+      ]
+    },
+    {
+      "tag": "Courses/Learn",
+      "patterns": [
+        "What all can I learn?",
+        "What courses can I take up?",
+        "What courses do you provide?",
+        "Suggest me something to learn.",
+        "What courses do you offer?",
+        "I want to learn",
+        "What do I learn here?",
+        "I am a beginner, suggest me something"
+      ],
+      "responses": [
+        "We provide courses ranging from Web development to basics of programming languages",
+        "One can take up the web development path or can go on to learn the basics of Python and many more related topics.",
+        "The courses based on web development path focus on Web2 and Web3 and the basics of CSS and HTML. While the other courses that we provide include the basics of Python and basic documentation techniques."
+      ]
+    },
+
+    {
+      "tag": "other",
+      "patterns": [
+        "What other than courses can I learn through the communinty?",
+        "What other things do you provide?",
+        "What other things do you offer?",
+        "Do you help in things not related to taking up courses?",
+        "What can I do other than taking up a course?"
+      ],
+      "responses": [
+        "There are events which help make our CV more appealing to potential employers or organisations. We also help with some tips and tricks that online articles will rarely tell you about! How to optimize your CV for different jobs,etc",
+        "We conduct events which help in improving one's CV and also Blogs are uploaded by the community members helping one to keep up with the latest technologies and topics."
+      ]
+    },
+
+    {
+      "tag": "funny",
+      "patterns": [
+        "Tell me a joke!",
+        "Tell me something funny!",
+        "Do you know a joke?"
+      ],
+      "responses": [
+        "Why did the hipster burn his mouth? He drank the coffee before it was cool.",
+        "What did the buffalo say when his son left for college? Bison."
+      ]
+    }
+  ]
+}
