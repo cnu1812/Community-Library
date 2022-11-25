@@ -2,7 +2,7 @@
 
 ## What is the stackie identity to you!
 
-- **What makes you a Stackie**
+- #### What makes you a Stackie?
 
 FAVOUR
    
@@ -20,13 +20,13 @@ Kodyvim
 
 - Curiosity to learn and grow most especially the community.
 
-- **What makes a Stackie different from other developers out there.**
+- ### What makes a Stackie different from other developers out there.
 
 Whoami??
 
 - On what makes Stackies different from other developers, I'd say the community. I mean, we're still at the early stages and our actions and inactions are what's shaping the community. Glad to have been a part of the community at this early stage.
 
-- **If you were to choose one word to describe yourself as a Stackie, what would it be?**
+- ### If you were to choose one word to describe yourself as a Stackie, what would it be?
 
 Nid! - Learner
 
@@ -43,7 +43,7 @@ Rahublatz
 AstroDude
 - One good skill stack up teaches is ‘attention to detail’. Makes me more careful even in other things I do.
 
-- **What make you willing to talk in the first few days of joining the community?**
+- ### What make you willing to talk in the first few days of joining the community?
 
 - Warming welcoming people - very wholesome onboarding process
 
@@ -57,7 +57,7 @@ AstroDude
 - For nearly a month, I just spend time in the games section playinggartic - RaviZ
 - I was interested in the help and language section that helps to grow more -Vishu
 
-- **What makes you come back to the StackUp community (why do you stay and what makes you stay)**
+- ### What makes you come back to the StackUp community (why do you stay and what makes you stay).
 
 - Nid! - It’s my first community tbh
 - Bern! - it’s my first community too lol
