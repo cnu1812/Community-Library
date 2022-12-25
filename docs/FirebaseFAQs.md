@@ -7,6 +7,9 @@
 
 1. **What should I do if I get  “Error: Failed to create project. See firebase-debug.log for more info. after u provide a projectID?**
 
+![error](https://user-images.githubusercontent.com/75531528/209460596-d3d06b1b-2447-45fd-869c-761e32c52afe.png)
+
+
    **Solution:**
    - See your firebase-debug.log file.
    - If the error is as shown in the image below(see the lines marked in red)
@@ -20,7 +23,8 @@
 
 2.  **If you are running firebase commands using Windows powershell and encounter the error shown below.**
 
-   image
+   ![powershell error](https://user-images.githubusercontent.com/75531528/209460696-8ea4a5ce-5026-4dd8-bd9c-7289d43535f0.png)
+
 
     **Solution**:  Use Command prompt(cmd) or Git Bash to run those commands.
 
@@ -30,6 +34,7 @@
 
 3. **Upon visiting your deployed url, if u don’t see the intended page and instead see the page as shown in the image below.**
 
+![webhosting](https://user-images.githubusercontent.com/75531528/209460670-da1f947f-f713-411e-8d2d-d8710090b45b.png)
 
 
  **Solution**: 
@@ -53,7 +58,12 @@
 
 5.  **404: Page not found**
 
-     **Solution**: 
+ 
+ ![404](https://user-images.githubusercontent.com/75531528/209460478-95611c4d-5590-4c02-ab98-124d27daa4ac.png)
+
+
+
+   **Solution**:
      Project Name should be lowercase (?)
 
      That's because when you were asked if you want to use your public directory, you choose NO instead of just pressing Enter. Start the step again from firebase init, and follow the steps from the campaign accordingly
