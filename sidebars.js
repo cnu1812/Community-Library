@@ -12,7 +12,7 @@
 module.exports = {
   // By default, Docusaurus generates a sidebar from the docs folder structure
   mainSidebar: [
-    'PowerStackies', 'Leaderboard', 'CommunityCollabDiscussion', 'intro',
+    'PowerStackies', 'Leaderboard', 'CommunityCollabDiscussion', 'FirebaseFAQs','intro',
     {
       type: 'category',
       label: '30 Days of Web2',
