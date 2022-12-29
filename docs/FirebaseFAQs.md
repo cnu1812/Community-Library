@@ -16,6 +16,9 @@
   - If the error is as shown in the image below(see the lines marked in red)
   - Ensure that your projectID contains only lowercase characters and starts with an alphabet.
   - If the error is as shown in the image below
+  
+      ![unnamed](https://user-images.githubusercontent.com/75531528/209911236-149b54e7-4522-45f0-a57a-661d214d881e.png)
+
   - Create your firebase project in the browser.
   - Visit https://console.firebase.google.com , then click add project   and follow the steps to create the project.
   - In your terminal, choose the option ‘use existing project’ and continue.
