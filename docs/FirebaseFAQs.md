@@ -70,7 +70,7 @@ Use Command prompt(cmd) or Git Bash to run those commands.
 
 **Solution**:
 
-   Project Name should be lowercase (?)
+   Project Name should be lowercase()
 
    That's because when you were asked if you want to use your public directory, you choose NO instead of just pressing Enter. Start the step again from firebase init, and follow the steps from the campaign accordingly
 
