@@ -35,7 +35,7 @@ Use the Command Prompt (cmd) or Git Bash to run those commands.
 
    **Solution**: 
  
-   In powershell, type the below(underlined) command and execute ***Set-ExecutionPolicy RemoteSigned -Scope CurrentUser***. Then continue with the firebase commands.
+   In powershell, execute ***Set-ExecutionPolicy RemoteSigned -Scope CurrentUser***. Then continue with the firebase commands.
 
 3 . **Upon visiting your deployed url, if you don’t see the intended page and instead see the page as shown in the image below.**
 
