@@ -5,7 +5,7 @@
  - Check if you are running the firebase init and deploy commands in the correct directory.
 - Follow the quest steps properly.
 
-1 . **What should I do if I get  “Error: Failed to create project. See firebase-debug.log for more info. after u provide a projectID?**
+1 . **What should I do if I get “Error: Failed to create project. See firebase-debug.log for more info.", after you provide a projectID?**
 
    ![error](https://user-images.githubusercontent.com/75531528/209460596-d3d06b1b-2447-45fd-869c-761e32c52afe.png)
 
@@ -31,27 +31,27 @@
 
 **Solution**: 
  
-Use Command prompt(cmd) or Git Bash to run those commands.
+Use the Command Prompt (cmd) or Git Bash to run those commands.
 
    **Solution**: 
  
-   In powershell,type the below(underlined) command and execute ***Set-ExecutionPolicy RemoteSigned -Scope CurrentUser*** Then continue with the firebase commands.
+   In powershell, type the below(underlined) command and execute ***Set-ExecutionPolicy RemoteSigned -Scope CurrentUser***. Then continue with the firebase commands.
 
-3 . **Upon visiting your deployed url, if u don’t see the intended page and instead see the page as shown in the image below.**
+3 . **Upon visiting your deployed url, if you don’t see the intended page and instead see the page as shown in the image below.**
 
    ![webhosting](https://user-images.githubusercontent.com/75531528/209460670-da1f947f-f713-411e-8d2d-d8710090b45b.png)
 
 
  **Solution**: 
-   - It means that the index.html file in your public directory was overwritten with firebase code.This happens if you chose Y in the cli when the file was asked to be overwritten.
+   - It means that the index.html file in your public directory was overwritten with Firebase code. This happens if you chose Y in the CLI when the file was asked to be overwritten.
 
 **Solution** :
-   - Open index.html file of your public directory and replace the code in it  with the code you want to deploy(in case of quests, it means the code provided in quest steps) and also check with the other files in the public directory like css, js files and ensure they contain the code you wish to deploy. Once the files in your public directory contain the correct code, proceed to redeploy using the “firebase deploy” in your cli.
+   - Open your public directory's index.html file and replace the code in it with the code you want to deploy (in the case of quests, this means the code provided in quest steps), and also check the other files in the public directory, such as css and js files, to ensure they contain the code you want to deploy. Once the files in your public directory contain the correct code, proceed to redeploy using the "firebase deploy" command in your CLI.
 
 4 . **If you encounter the error "HTTP Error: 403, The caller does not have permission" in your firebase-debug.log file.**
 
-**Solution**: you may want to check if you are logged in on your terminal.
-    Suggested solution is to execute the following commands in your cli: 
+**Solution**: You may want to check if you are logged in on your terminal.
+    The Suggested solution is to execute the following commands in your cli: 
    - firebase logout 
    - firebase login
       - and continue with further steps
@@ -70,7 +70,7 @@ Use Command prompt(cmd) or Git Bash to run those commands.
 
 **Solution**:
 
-   Project Name should be lowercase()
+   Project Name should be lowercase.
 
    That's because when you were asked if you want to use your public directory, you choose NO instead of just pressing Enter. Start the step again from firebase init, and follow the steps from the campaign accordingly
 
@@ -78,18 +78,18 @@ Use Command prompt(cmd) or Git Bash to run those commands.
 
    firebase deploy --only hosting
 
-6 . **Firebase quiries mostly related to Authentication and Terminals.     Mostly windows users who experience these problems.**
+6 . **Firebase queries mostly relate to Authentication and Terminals. Mostly Windows users experience these problems.**
 
 **Solution**:
 
-   - Seems like if u have created a project once on firebase through their website. Then you can create next projects from CLI on windows... It works fine .
-   - So people either create a demo project on firebase before.. Then can follow quest instructions for creating project through CLI or they can use existing project option.
+   - It seems as if you have created a project once on Firebase through their website. Then, on Windows, you can create new projects using the CLI. It works fine.
+   - So if people have previously created a Firebase demo project, they can either follow quest instructions for creating project via CLI or use the existing project option.
 
-7 . **CSS is not applying?**
+7 . **CSS is not applying**
 
-**Solution:** File name not be same as in the index.html file
+**Solution:** The file name should not be the same as the index.html file. 
 
-   Your css folder is in capitalized form: 
+   If your css folder is in capitalized form: 
 1. Rename it to lower case 
 2. Save 
 3. Redeploy
