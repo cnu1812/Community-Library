@@ -70,13 +70,15 @@ Use the Command Prompt (cmd) or Git Bash to run those commands.
 
 **Solution**:
 
-   Project Name should be lowercase.
+   - Project Name should be lowercase.
 
-   That's because when you were asked if you want to use your public directory, you choose NO instead of just pressing Enter. Start the step again from firebase init, and follow the steps from the campaign accordingly
+   - The cause of this error is that when you were asked if you wanted to use your public directory, you chose NO instead of just pressing Enter. 
+     - Restart the step from Firebase init and proceed as directed by the campaign.
 
-   Public folder shouldn’t override on deploy. Replace all files on the public folder and redeploy, but this time choose no
+   - Public folder shouldn’t override on deploy. 
+     - Replace all files on the public folder and redeploy, but this time choose NO.
 
-   firebase deploy --only hosting
+   - If hosting URL is not working you can simply run this command, `firebase deploy --only hosting`.
 
 6 . **Firebase queries mostly relate to Authentication and Terminals. Mostly Windows users experience these problems.**
 
