@@ -4,9 +4,8 @@ id: intro
 title: Introduction
 ---
 
-Hello stackies, this is the Quest Help section that contains the **FAQs of some of the StackUp campaigns.**
+Hello! This is the Community Learn section that contains the **Community Events hosted On StackUp Server**
 
-The questions and answers are from the commmunity in the discord, so if you can't solve your issue using this FAQ you can still ask your doubt in the discord server (#zilliqa-helpdesk channel).
 
 If you want to contribute with the FAQ:
 1. [Set this project locally](../../docs/intro.md)
