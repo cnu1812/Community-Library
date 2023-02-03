@@ -2,19 +2,24 @@
 
 ### Description of the session
 
-In this session will talk about CSS animations. a typical question might be, "how do i create a custom animation?" or "what automation should I use to create an animated webpage?"
-I'll be using css to help me create my animation. and I'm going to use css files for the animations. but you don't need to be expert in this we'll learn along the way.
+In this session will talk about HTML & CSS animations.
+
+- To follow this code-along, you will need a Chromium-based browser, Git, a Github account and an IDE of your choice. 
+
+- The challenge is taken from [here](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc)
+
+- You can also check against Miguelzinho's [code](https://github.com/miguelbcodes/code-along-session/)
 
 ### Learning outcomes
 
 In this code along session, stackies will
 
-1. learn how to use css to animate web pages/site
+1. learn how to use html & css to create web pages/site
 2. Clearing myths and doubts about css.
 
 import Video from '@site/src/components/LearnVideo';
 
-<Video link="https://youtube.com/embed/35ate9LhuJw"></Video>
+<Video link="https://youtube.com/embed/byjbvji78AQ"></Video>
 
 
 ### Things to try
