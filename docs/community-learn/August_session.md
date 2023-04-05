@@ -38,6 +38,10 @@ The quiz can be accessed from here [Attempt Quiz](https://quizizz.com/join/quiz/
 You can access the sessions presentation here: [Stackies-Intro-to-Cloud](https://www.canva.com/design/DAFcOLU-2XI/_Xy7Qp7-ZDy-TSyhzYtYwg/edit?utm_content=DAFcOLU-2XI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 She also made a blog, about getting started with Amazon S3 and hosting a static website on it!
+
 You can view it here: [Amazon S3](https://augusthottie.hashnode.dev/amazon-s3)
+
+
+Access the hosted website here: [Stactic Website](http://stackies-intro-to-cloud.s3-website.af-south-1.amazonaws.com/)
 
 **If you have any doubts/questions feel free to ask below!**
