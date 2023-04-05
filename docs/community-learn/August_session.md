@@ -19,23 +19,25 @@ This event is perfect for anyone interested in learning more about AWS S3 and we
 ### Learning outcomes
 
 After the session you will be able to: 
-- Understand the concept of open source.
-- Discover  myths about open source.
-- Learn  about the various roles in the open source community.   
-- Familiarize  ways and practices for contributing to OSS.
-- Familiarize yourself with open source  license.
-- Learn how to contribute to open source  by pulling a request, performing a code review, raising an issue,  committing, and participating in discussions.    
-- Realize  the importance of open source communities.
+- Define AWS.
+- Describe Amazon S3.
+- Describe some use cases for Amazon S3.   
+- Describe some benefits of Amazon S3.
+- Create a bucket.
+- Upload objects into the bucket.    
+- Host a static website.
 
 <Video link="https://youtube.com/embed/gSImUFlC12M"></Video>
 
 ### Things to try
 
-After watching the video, Abbey prepared an activity that will let you practice everything you need to contribute to open source.
+After watching the video, augusthottie prepared a quiz that will test your understanding on everything covered in the session.
 
-The said activity is called the [Stackie 2023 resolution](https://stackie-2023-resolution.vercel.app). Its goal is to let Stackies share each other’s resolutions for this year. Every Stackie will be able to pull a request, raise an issue, and code review.
+The quiz can be accessed from here [Attempt Quiz](https://quizizz.com/join/quiz/6419ba7ebc6121001d408db0/start?studentShare=true). 
 
-You can also head to the Resources section of the website to view the repositories you can also contribute to as a beginner. 
-You can make your own project and share to the community!
+You can access the sessions presentation here: [Stackies-Intro-to-Cloud](https://www.canva.com/design/DAFcOLU-2XI/_Xy7Qp7-ZDy-TSyhzYtYwg/edit?utm_content=DAFcOLU-2XI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+She also made a blog, about getting started with Amazon S3 and hosting a static website on it!
+You can view it here: [Amazon S3](https://augusthottie.hashnode.dev/amazon-s3)
 
 **If you have any doubts/questions feel free to ask below!**
