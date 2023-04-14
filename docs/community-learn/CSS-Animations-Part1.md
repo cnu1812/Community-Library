@@ -1,4 +1,4 @@
-## Code Along Session: Introduction to CSS Animations
+## Code Along Session: Introduction to CSS Animations Part 1.
 
 ### Description of the session
 

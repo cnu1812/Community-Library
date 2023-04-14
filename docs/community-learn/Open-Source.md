@@ -1,5 +1,7 @@
 import Video from '@site/src/components/LearnVideo';
 
+![image](https://cdn.discordapp.com/attachments/1044976252018245784/1096324176022872137/Electric_Blue_Modern_Money_Management_Tips_Youtube_Thumbnails.png)
+
 ## Level Up Your Skills With OpenSource
 
 ### Description of the session

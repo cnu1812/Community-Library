@@ -1,5 +1,7 @@
 import Video from '@site/src/components/LearnVideo';
 
+![image](https://cdn.discordapp.com/attachments/970951521447591946/1095088683989880953/Untitled_design.png)
+
 ## A Journey in Machine Learning
 
 ### Description of the session

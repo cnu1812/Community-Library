@@ -1,4 +1,4 @@
-## Miguel's session or title of the session
+## Code Along Session: Introduction to CSS Animations Part 2.
 
 ### Description of the session
 

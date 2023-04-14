@@ -1,5 +1,7 @@
 import Video from '@site/src/components/LearnVideo';
 
+![image](https://cdn.discordapp.com/attachments/1044976252018245784/1096324204657385522/Code_With_1.png)
+
 ## Deploy A Static Website on AWS
 
 ### Description of the session
