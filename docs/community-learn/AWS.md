@@ -35,7 +35,7 @@ After the session you will be able to:
 
 After watching the video, augusthottie prepared a quiz that will test your understanding on everything covered in the session.
 
-The quiz can be accessed from here [Attempt Quiz](https://quizizz.com/join/quiz/6419ba7ebc6121001d408db0/start?studentShare=true). 
+<Video link="https://quizizz.com/embed/quiz/6419ba7ebc6121001d408db0"></Video> 
 
 You can access the sessions presentation here: [Stackies-Intro-to-Cloud](https://www.canva.com/design/DAFcOLU-2XI/_Xy7Qp7-ZDy-TSyhzYtYwg/edit?utm_content=DAFcOLU-2XI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
