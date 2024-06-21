@@ -6,6 +6,24 @@
  - Are you running the firebase init and deploy commands in the correct directory?
 
 
+0. **Firebase Command not-found**
+   
+   ![Screenshot 2024-06-21 130330](https://github.com/cnu1812/Community-Library/assets/75531528/56c5d829-44ef-4bae-89bd-4c8504597caa)
+
+   **Solution**
+
+   - `npm install -g firebase-tools`
+
+0.1 **Firebase CLI v13.11.3 is incompatible with Node.js**
+
+   ![Screenshot 2024-06-21 130915](https://github.com/cnu1812/Community-Library/assets/75531528/275e1c0b-3412-4c2c-9072-1afb1774e88b)
+
+   **Solution**
+
+   - `nvm install <preferred version>`
+   - eg: `nvm install v19.11.0`
+   - `nvm use v19.11.0`
+
 1 . **I received an error message of "Failed to create project. See firebase-debug.log for more info".**
 
    ![error](https://user-images.githubusercontent.com/75531528/209460596-d3d06b1b-2447-45fd-869c-761e32c52afe.png)
